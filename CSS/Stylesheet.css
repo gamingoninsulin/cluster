@@ -1,11 +1,19 @@
-
 .marginborder {
     padding: 10px;
     min-width: 25;
     max-width: 25;
     border-style: double;
-    background-color: rgba(0, 0,0, .1);
+    background-color: rgba(0, 0, 0, .1);
 }
+
+.marginborderdarker {
+    padding: 10px;
+    min-width: 25;
+    max-width: 25;
+    border-style: double;
+    background-color: rgba(0, 0, 0, .2);
+}
+
 h1.carousel,
 p.carousel {
     color: white;
